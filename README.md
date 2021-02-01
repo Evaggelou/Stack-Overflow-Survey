@@ -17,7 +17,7 @@ The code that has been used is available at the jupyter notebook with title: "St
 
 ## Installation
 Since the dataset was too large to be uploaded directly on Github, the dataset can be found [here](https://insights.stackoverflow.com/survey)
-The code can easily at the colab notebook without any extra installation or locally just with the anaconda distribution. The code should run with no issues using Python versions 3.*.
+The code can easily run at the google colab notebook without any extra installation or locally just with the anaconda distribution. The code should run with no issues using Python versions 3.*.
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/p/5d105aed1856/edit)
