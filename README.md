@@ -16,11 +16,11 @@ The dataset used has 2 parts/files:
 The code that has been used is available at the jupyter notebook with title: "Stack_Overflow_Survey.ipynb" and it is also available at google colab.
 
 ## Installation
-Since the dataset was too large to be uploaded directly on Github, the dataset can be found [here](https://insights.stackoverflow.com/survey)
+Since the dataset was too large to be uploaded directly on Github, the dataset can be found [here](https://insights.stackoverflow.com/survey).
 The code can easily run at the google colab notebook without any extra installation or locally just with the anaconda distribution. The code should run with no issues using Python versions 3.*.
 
 ## Results
-The main findings of the code can be found at the post available [here](https://medium.com/p/5d105aed1856/edit)
+The main findings of the code can be found at the post available [here](https://evangelou-alexandr.medium.com/stack-overflow-gender-challenging-satisfaction-5d105aed1856)
 
 ## Acknowledgements
 I must give credit to Stack Overflow for the data. 
